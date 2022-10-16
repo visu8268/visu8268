@@ -65,27 +65,25 @@
 <br>
 <!-------Teach Stack Section End------------->
 
-
-<!---- Stats Section -------->
-
 <h2><i>My GitHub Stats</i></h2>
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visu8268&layout=compact&hide=Shell&border_radius=0&theme=dark" alt="visu8268" width="400" /><br/>           
+<div style={{display:"flex", gap:"4%" }}><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=visu8268&show_icons=true&locale=en&layout=compact" alt="visu8268" />
+
+&nbsp;<img  width="55%" src="https://github-readme-stats.vercel.app/api?username=visu8268&show_icons=true&locale=en" alt="visu8268" /></div>
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=visu8268theme=dark&hide_border=false)<br/>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=visu8268&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="visu8268" height="200" />
-
-<br />
-<!---- Stats Section End -------->
-
-
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=visu8268" alt="visu8268" /></a> </p>
 
 <a href="https://github.com/visu8268/github-readme-activity-graph">
   <img alt="lokesh-dc's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=visu8268&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
+
+
+<!---- Stats Section -------->
+
+
+
+
 
 
 
